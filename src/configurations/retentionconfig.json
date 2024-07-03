@@ -1,0 +1,497 @@
+{
+  "147": {
+    "project": "dbce-c360-segamerws-prod-35ac",
+    "dataset_retention": "bra_all_brazil_roll_up_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_bra_all_brazil_roll_up",
+    "table_ctas": "canonical_user_ctas",
+    "country": "BRA",
+    "region": "US"
+  },
+  "294": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "aut_growingfamilies_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_aut_growing_families",
+    "table_ctas": "canonical_user_ctas",
+    "country": "AUT",
+    "region": "EU"
+  },
+  "550": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "gbr_beautycode_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_gbr_beauty_code",
+    "table_ctas": "canonical_user_ctas",
+    "country": "GBR",
+    "region": "EU"
+  },
+  "138": {
+    "project": "dbce-c360-segamerws-prod-35ac",
+    "dataset_retention": "can_growing_families_pgge_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_can_growing_families_pgge",
+    "table_ctas": "canonical_user_ctas",
+    "country": "CAN",
+    "region": "US"
+  },
+  "146": {
+    "project": "dbce-c360-segamerws-prod-35ac",
+    "dataset_retention": "lat_rest_of_latin_america_roll_up_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_lat_rest_of_latin_america_roll_up",
+    "table_ctas": "canonical_user_ctas",
+    "country": "LAT",
+    "region": "US"
+  },
+  "115": {
+    "project": "dbce-c360-segamerws-prod-35ac",
+    "dataset_retention": "usa_growing_families_pgge_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_usa_growing_families_pgge",
+    "table_ctas": "canonical_user_ctas",
+    "country": "USA",
+    "region": "US"
+  },
+  "401": {
+    "project": "dbce-c360-segamerws-prod-35ac",
+    "dataset_retention": "usa_dental_care_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_usa_dental_care",
+    "table_ctas": "canonical_user_ctas",
+    "country": "USA",
+    "region": "US"
+  },
+  "290": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "esp_growingfamilies_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_esp_growing_families",
+    "table_ctas": "canonical_user_ctas",
+    "country": "ESP",
+    "region": "EU"
+  },
+  "300": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "prt_growingfamilies_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_prt_growing_families",
+    "table_ctas": "canonical_user_ctas",
+    "country": "PRT",
+    "region": "EU"
+  },
+  "2": {
+    "project": "dbce-c360-segamaws-prod-9669",
+    "dataset_retention": "jpn_growingfamilies_myrepi_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_jpn_growing_families_myrepi",
+    "table_ctas": "canonical_user_ctas",
+    "country": "JPN",
+    "region": "AMA"
+  },
+  "86": {
+    "project": "dbce-c360-segamaws-prod-9669",
+    "dataset_retention": "idn_corporate_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_idn_corporate",
+    "table_ctas": "canonical_user_ctas",
+    "country": "IDN",
+    "region": "AMA"
+  },
+  "350": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "ita_braun_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_ita_braun",
+    "table_ctas": "canonical_user_ctas",
+    "country": "ITA",
+    "region": "EU"
+  },
+  "378": {
+    "project": "dbce-c360-segamaws-prod-9669",
+    "dataset_retention": "egy_pampers_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_egy_pampers",
+    "table_ctas": "canonical_user_ctas",
+    "country": "EGY",
+    "region": "AMA"
+  },
+  "473": {
+    "project": "dbce-c360-segamaws-prod-9669",
+    "dataset_retention": "aus_alwaysdiscreet_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_aus_always_discreet",
+    "table_ctas": "canonical_user_ctas",
+    "country": "AUS",
+    "region": "AMA"
+  },
+  "16": {
+    "project": "dbce-c360-segamaws-prod-9669",
+    "dataset_retention": "jpn_whisper_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_jpn_whisper",
+    "table_ctas": "canonical_user_ctas",
+    "country": "JPN",
+    "region": "AMA"
+  },
+  "543": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "esp_beautycode_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_esp_beauty_code",
+    "table_ctas": "canonical_user_ctas",
+    "country": "ESP",
+    "region": "EU"
+  },
+  "295": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "che_growingfamilies_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_che_growing_families",
+    "table_ctas": "canonical_user_ctas",
+    "country": "CHE",
+    "region": "EU"
+  },
+  "24": {
+    "project": "dbce-c360-segamaws-prod-9669",
+    "dataset_retention": "phl_corporate_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_phl_corporate",
+    "table_ctas": "canonical_user_ctas",
+    "country": "PHL",
+    "region": "AMA"
+  },
+  "44": {
+    "project": "dbce-c360-segamaws-prod-9669",
+    "dataset_retention": "phl_pampers_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_phl_pampers",
+    "table_ctas": "canonical_user_ctas",
+    "country": "PHL",
+    "region": "AMA"
+  },
+  "293": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "deu_growingfamilies_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_deu_growing_families",
+    "table_ctas": "canonical_user_ctas",
+    "country": "DEU",
+    "region": "EU"
+  },
+  "363": {
+    "project": "dbce-c360-segamaws-prod-9669",
+    "dataset_retention": "arb_growingfamilies_everydaymearabia_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_arb_growing_families_everyday_me_arabia",
+    "table_ctas": "canonical_user_ctas",
+    "country": "ARB",
+    "region": "AMA"
+  },
+  "299": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "irl_growingfamilies_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_irl_growing_families",
+    "table_ctas": "canonical_user_ctas",
+    "country": "IRL",
+    "region": "EU"
+  },
+  "178": {
+    "project": "dbce-c360-segamerws-prod-35ac",
+    "dataset_retention": "",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_usa_old_spice",
+    "table_ctas": "canonical_user_ctas",
+    "country": "USA",
+    "region": "US"
+  },
+  "288": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "gbr_growingfamilies_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_gbr_growing_families",
+    "table_ctas": "canonical_user_ctas",
+    "country": "GBR",
+    "region": "EU"
+  },
+  "289": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "ita_growingfamilies_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_ita_growing_families",
+    "table_ctas": "canonical_user_ctas",
+    "country": "ITA",
+    "region": "EU"
+  },
+  "417": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "gbr_oralb_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_gbr_oral_b",
+    "table_ctas": "canonical_user_ctas",
+    "country": "GBR",
+    "region": "EU"
+  },
+  "416": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "deu_oralb_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_deu_oral_b",
+    "table_ctas": "canonical_user_ctas",
+    "country": "DEU",
+    "region": "EU"
+  },
+  "412": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "esp_oralb_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_esp_oral_b",
+    "table_ctas": "canonical_user_ctas",
+    "country": "ESP",
+    "region": "EU"
+  },
+  "414": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_nld_oral_b",
+    "table_ctas": "canonical_user_ctas",
+    "country": "NLD",
+    "region": "EU"
+  },
+  "524": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "bel_oralb_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_bel_oral_b",
+    "table_ctas": "canonical_user_ctas",
+    "country": "BEL",
+    "region": "EU"
+  },
+  "411": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "pol_oralb_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_pol_oral_b",
+    "table_ctas": "canonical_user_ctas",
+    "country": "POL",
+    "region": "EU"
+  },
+  "410": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "swe_oralb_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_swe_oral_b",
+    "table_ctas": "canonical_user_ctas",
+    "country": "SWE",
+    "region": "EU"
+  },
+  "517": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_fin_oral_b",
+    "table_ctas": "canonical_user_ctas",
+    "country": "FIN",
+    "region": "EU"
+  },
+  "39": {
+    "project": "dbce-c360-segamaws-prod-9669",
+    "dataset_retention": "",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_vnm_corporate",
+    "table_ctas": "canonical_user_ctas",
+    "country": "VNM",
+    "region": "AMA"
+  },
+  "413": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_ita_oral_b",
+    "table_ctas": "canonical_user_ctas",
+    "country": "ITA",
+    "region": "EU"
+  },
+  "516": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_dnk_oral_b",
+    "table_ctas": "canonical_user_ctas",
+    "country": "DNK",
+    "region": "EU"
+  },
+  "127": {
+    "project": "dbce-c360-segamerws-prod-35ac",
+    "dataset_retention": "usa_olay_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_usa_olay",
+    "table_ctas": "canonical_user_ctas",
+    "country": "USA",
+    "region": "US"
+  },
+    "507": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "fra_braun_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_fra_braun",
+    "table_ctas": "canonical_user_ctas",
+    "country": "FRA",
+    "region": "EU"
+  },
+  "472": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "fra_jolly_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_fra_jolly",
+    "table_ctas": "canonical_user_ctas",
+    "country": "FRA",
+    "region": "EU"
+  },
+  "518": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "esp_braun_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_esp_braun",
+    "table_ctas": "canonical_user_ctas",
+    "country": "ESP",
+    "region": "EU"
+  },
+  "424": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "nld_gillette_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_nld_gillette",
+    "table_ctas": "canonical_user_ctas",
+    "country": "NLD",
+    "region": "EU"
+  },
+  "59": {
+    "project": "dbce-c360-segamaws-prod-9669",
+    "dataset_retention": "twn_living_artist_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_tw_living_artist",
+    "table_ctas": "canonical_user_ctas",
+    "country": "TWN",
+    "region": "AMA"
+  },
+  "353": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_ita_gillette",
+    "table_ctas": "canonical_user_ctas",
+    "country": "ITA",
+    "region": "EU"
+  },
+  "308": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "esp_gillette_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_esp_gillette",
+    "table_ctas": "canonical_user_ctas",
+    "country": "ESP",
+    "region": "EU"
+  },
+  "119": {
+    "project": "dbce-c360-segamerws-prod-35ac",
+    "dataset_retention": "",     
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_usa_gillette_v_2",
+    "table_ctas": "canonical_user_ctas",
+    "country": "USA",
+    "region": "US"
+  },
+  "405": {
+    "project": "dbce-c360-segamerws-prod-35ac",
+    "dataset_retention": "can_dental_care_retention_rules_12230",
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_can_dental_care",
+    "table_ctas": "canonical_user_ctas",
+    "country": "CAN",
+    "region": "US"
+  },
+  "415": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "fra_oralb_retention_rules_12230",    
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_fra_oralb",
+    "table_ctas": "canonical_user_ctas",
+    "country": "FRA",
+    "region": "EU"
+  },
+  "292": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "grc_growingfamilies_retention_rules_12230",    
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_grc_growing_families",
+    "table_ctas": "canonical_user_ctas",
+    "country": "GRC",
+    "region": "EU"
+  },
+  "209": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "tur_beinggirl_retention_rules_12230",    
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_tur_being_girl",
+    "table_ctas": "canonical_user_ctas",
+    "country": "TUR",
+    "region": "EU"
+  },
+  "249": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "pol_growingfamilies_retention_rules_12230",    
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_pol_growing_families",
+    "table_ctas": "canonical_user_ctas",
+    "country": "POL",
+    "region": "EU"
+  },
+  "430": {
+    "project": "dbce-c360-segamerws-prod-35ac",
+    "dataset_retention": "usa_braun_retention_rules_12230",    
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_usa_braun",
+    "table_ctas": "canonical_user_ctas",
+    "country": "USA",
+    "region": "US"
+  },
+  "380": {
+    "project": "dbce-c360-segamaws-prod-9669",
+    "dataset_retention": "afr_pampers_retention_rules_12230",    
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_afr_pampers",
+    "table_ctas": "canonical_user_ctas",
+    "country": "AFR",
+    "region": "AMA"
+  },
+  "384": {
+    "project": "dbce-c360-segglblws-prod-b902",
+    "dataset_retention": "bgr_corporate_retention_rules_12230",    
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_bgr_corporate",
+    "table_ctas": "canonical_user_ctas",
+    "country": "BGR",
+    "region": "EU"
+  },
+  "173": {
+    "project": "dbce-c360-segamerws-prod-35ac",
+    "dataset_retention": "usa_oral_care_retention_rules_12230",    
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_usa_oral_care",
+    "table_ctas": "canonical_user_ctas",
+    "country": "USA",
+    "region": "US"
+  },
+  "494": {
+    "project": "dbce-c360-segamerws-prod-35ac",
+    "dataset_retention": "usa_always_retention_rules_12230",    
+    "table_identifies": "identifies",
+    "dataset_persona": "personas_usa_always",
+    "table_ctas": "canonical_user_ctas",
+    "country": "USA",
+    "region": "US"
+  }
+}

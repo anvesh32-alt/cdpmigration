@@ -1,0 +1,975 @@
+{
+    "2": {
+        "country_code": "'JPN'",
+        "opt_indicator": [
+            "email_japan_growing_families_newsletter_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "",
+        "mp_name": "JPN GHH",
+        "segment_segment_multiple_mpn": "'2'",
+        "cdp_multiple_mpn": "2",
+        "region": "AMA",
+        "dataset": "personas_jpn_growing_families_myrepi",
+        "date": "2023-12-07",
+        "retention_table": "jpn_ghh_retention_segment",
+        "dataset_region": "us-east4"
+    },
+    "138": {
+        "country_code": "'CAN'",
+        "opt_indicator": [
+            "email_Canada_Growing_Families_Pgge_Newsletter_Opt_Indicator",
+            "email_Canada_Growing_Families_Pgge_Rewards_Newsletter_Opt_Indicator",
+            "email_canada_corporate_newsletter_opt_indicator",
+            "email_canada_growing_families_newsletter_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "",
+        "mp_name": "CAN PGGE",
+        "region": "US",
+        "segment_segment_multiple_mpn": "'138'",
+        "cdp_multiple_mpn": "138",
+        "dataset": "personas_can_growing_families_pgge",
+        "date": "2023-11-11",
+        "retention_table": "can_pgge_retention_segment",
+        "dataset_region": "us"
+    },
+    "146": {
+        "country_code": "'ARG','CHL','COL','CRI','DOM','ECU','GTM','HND','JAM','LAT','MEX','NIC','PAN','PER','PRY','SLV','TTO','URY','VEN'",
+        "opt_indicator": [
+            "email_latin_america_pampers_Newsletter_Opt_indicator",
+            "email_latin_america_rewards_newsletter_opt_indicator",
+            "email_chile_pampers_Newsletter_Opt_indicator",
+            "email_latin_america_pantene_newsletter_opt_indicator",
+            "email_argentina_pampers_newsletter_Opt_indicator",
+            "email_latin_america_corporate_newsletter_opt_indicator",
+            "email_col_tiendapg_newsletter_opt_indicator",
+            "email_peru_pampers_newsletter_opt_Indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "",
+        "mp_name": "LAT ROLA",
+        "region": "US",
+        "segment_segment_multiple_mpn": "'146','149','151','167','442','443','444','551','508','498'",
+        "cdp_multiple_mpn": "146,149,151,167,442,443,444,551,508,498",
+        "dataset": "personas_lat_rest_of_latin_america_roll_up",
+        "date": "2024-02-20",
+        "retention_table": "lat_rola_retention_segment",
+        "dataset_region": "us"
+    },
+    "147": {
+        "country_code": "'BRA'",
+        "opt_indicator": [
+            "email_brazil_oh_my_hair_newsletter_opt_indicator",
+            "email_brazil_corporate_newsletter_opt_indicator",
+            "email_brazil_gillette_newsletter_opt_indicator",
+            "email_brazil_pampers_newsletter_opt_indicator",
+            "email_brazil_pantene_newsletter_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "",
+        "mp_name": "BRA ROLA",
+        "segment_segment_multiple_mpn": "'147','150','152','168','504','552'",
+        "cdp_multiple_mpn": "147,150,152,168,504,552",
+        "region": "US",
+        "dataset": "personas_bra_all_brazil_roll_up",
+        "date": "2023-10-26",
+        "retention_table": "bra_rola_retention_segment",
+        "dataset_region": "us"
+    },
+    "290": {
+        "country_code": "'ESP'",
+        "opt_indicator": [
+            "email_spain_growing_families_newsletter_opt_indicator",
+            "email_spain_corporate_newsletter_opt_indicator",
+            "email_spain_growing_families_profiling_opt_indicator"
+        ],
+        "ghh_indicator": "email_spain_growing_families_newsletter_opt_indicator",
+        "corp_indicator": "email_spain_corporate_newsletter_opt_indicator",
+        "profiling_opt_indicator": "email_spain_growing_families_profiling_opt_indicator",
+        "mp_name": "ESP GHH",
+        "segment_segment_multiple_mpn": "'290'",
+        "cdp_multiple_mpn": "290",
+        "region": "EU_corp",
+        "dataset": "personas_esp_growing_families",
+        "date": "2023-11-10",
+        "retention_table": "esp_growing_families_retention_segment",
+        "dataset_region": "us"
+    },
+    "294": {
+        "country_code": "'AUT'",
+        "opt_indicator": [
+            "email_austria_growing_families_newsletter_opt_indicator",
+            "email_austria_corporate_newsletter_opt_indicator",
+            "email_austria_growing_families_profiling_opt_indicator"
+        ],
+        "ghh_indicator": "email_austria_growing_families_newsletter_opt_indicator",
+        "corp_indicator": "email_austria_corporate_newsletter_opt_indicator",
+        "profiling_opt_indicator": "email_austria_growing_families_profiling_opt_indicator",
+        "mp_name": "AUT GHH",
+        "segment_segment_multiple_mpn": "'294'",
+        "cdp_multiple_mpn": "294",
+        "region": "EU_corp",
+        "dataset": "personas_aut_growing_families",
+        "date": "2023-08-05",
+        "retention_table": "aut_retention_segment",
+        "dataset_region": "us"
+    },
+    "300": {
+        "country_code": "'PRT'",
+        "opt_indicator": [
+            "email_portugal_corporate_newsletter_opt_indicator",
+            "email_portugal_growing_families_newsletter_opt_indicator",
+            "email_portugal_growing_families_profiling_opt_indicator"
+        ],
+        "corp_indicator": "email_portugal_corporate_newsletter_opt_indicator",
+        "ghh_indicator": "email_portugal_growing_families_newsletter_opt_indicator",
+        "profiling_opt_indicator": "email_portugal_growing_families_profiling_opt_indicator",
+        "mp_name": "PRT GHH",
+        "segment_multiple_mpn": "'300'",
+        "cdp_multiple_mpn": "300",
+        "region": "EU_corp",
+        "dataset": "personas_prt_growing_families",
+        "date": "2023-11-11",
+        "retention_table": "prt_ghh_retention_segment",
+        "dataset_region": "us"
+    },
+    "401": {
+        "country_code": "'USA'",
+        "opt_indicator": [
+            "dc_ce_opt",
+            "dc_opt"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "",
+        "mp_name": "USA DENTALCARE",
+        "segment_multiple_mpn": "'401'",
+        "cdp_multiple_mpn": "401",
+        "region": "US",
+        "dataset": "personas_usa_dental_care",
+        "date": "2024-04-01",
+        "retention_table": "usa_dentalcare_retention_segment",
+        "dataset_region": "us"
+    },
+    "550": {
+        "country_code": "'GBR'",
+        "opt_indicator": [
+            "email_united_kingdom_hair_care_newsletter_opt_indicator",
+            "email_united_kingdom_skin_care_newsletter_opt_indicator",
+            "email_united_kingdom_beauty_code_profiling_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "email_united_kingdom_beauty_code_profiling_opt_indicator",
+        "mp_name": "GBR BEAUTYCODE",
+        "segment_multiple_mpn": "'550'",
+        "cdp_multiple_mpn": "550",
+        "region": "EU",
+        "dataset": "personas_gbr_beauty_code",
+        "date": "2023-10-19",
+        "retention_table": "gbr_beauty_retention_segment",
+        "dataset_region": "us"
+    },
+    "86": {
+        "country_code": "'IDN'",
+        "opt_indicator": [
+            "email_indonesia_corporate_newsletter_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "",
+        "cdp_opt_indicator": [
+            "emailIndonesiaCorporateNewsletterOptIndicator"
+        ],
+        "mp_name": "IDN CORPORATE",
+        "segment_multiple_mpn": "'86'",
+        "cdp_multiple_mpn": "86",
+        "region": "AMA",
+        "dataset": "personas_idn_corporate",
+        "date": "2023-12-11",
+        "retention_table": "idn_corporate_retention_segment",
+        "dataset_region": "us-east4",
+        "cdp_trait_id": "6419"
+    },
+    "350": {
+        "country_code": "'ITA'",
+        "opt_indicator": [
+            "email_italy_braun_profiling_opt_indicator",
+            "email_italy_braun_full_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "email_italy_braun_profiling_opt_indicator",
+        "mp_name": "ITA BRAUN",
+        "segment_multiple_mpn": "'350'",
+        "cdp_multiple_mpn": "350",
+        "region": "EU",
+        "dataset": "personas_ita_braun",
+        "date": "2023-12-18",
+        "retention_table": "ita_braun_retention_segment",
+        "dataset_region": "us"
+    },
+    "115": {
+        "country_code": "'USA'",
+        "opt_indicator": [
+            "email_united_states_corporate_newsletter_opt_indicator",
+            "email_united_states_growing_families_newsletter_opt_indicator",
+            "email_united_states_growing_families_rewards_newsletter_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "",
+        "mp_name": "USA PGGE",
+        "segment_multiple_mpn": "'115'",
+        "cdp_multiple_mpn": "115",
+        "region": "US",
+        "dataset": "personas_usa_growing_families_pgge",
+        "date": "2024-02-10",
+        "retention_table": "usa_pgge_retention_segment",
+        "dataset_region": "us"
+    },
+    "378": {
+        "country_code": "'EGY'",
+        "opt_indicator": [
+            "email_egypt_pampers_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "",
+        "mp_name": "EGY PAMPERS",
+        "segment_multiple_mpn": "'378'",
+        "cdp_multiple_mpn": "378",
+        "region": "AMA",
+        "dataset": "personas_egy_pampers",
+        "date": "2024-02-05",
+        "retention_table": "egy_pampers_retention_segment",
+        "dataset_region": "us-east4"
+    },
+    "473": {
+        "country_code": "'AUS'",
+        "opt_indicator": [
+            "email_australia_always_discreet_newsletter_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "",
+        "mp_name": "AUS ALWAYS DISCREET",
+        "segment_multiple_mpn": "'473'",
+        "cdp_multiple_mpn": "473",
+        "region": "AMA",
+        "dataset": "personas_aus_always_discreet",
+        "date": "2024-02-05",
+        "retention_table": "aus_always_discreet_retention_segment",
+        "dataset_region": "us-east4"
+    },
+    "543": {
+        "country_code": "'ESP','GBR'",
+        "opt_indicator": [
+            "email_spain_beauty_code_hair_care_newsletter_opt_indicator",
+            "email_spain_beauty_code_skin_care_newsletter_opt_indicator",
+            "email_spain_beauty_code_profiling_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "email_spain_beauty_code_profiling_opt_indicator",
+        "mp_name": "ESP BEAUTYCODE",
+        "segment_multiple_mpn": "'543'",
+        "cdp_multiple_mpn": "543",
+        "region": "EU",
+        "dataset": "personas_esp_beauty_code",
+        "date": "2024-02-06",
+        "retention_table": "esp_beauty_retention_segment",
+        "dataset_region": "us"
+    },
+    "44": {
+        "country_code": "'PHL'",
+        "opt_indicator": [
+            "email_philippines_pampers_newsletter_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "",
+        "mp_name": "PHL PAMPERS",
+        "segment_multiple_mpn": "'44'",
+        "cdp_multiple_mpn": "44",
+        "region": "AMA",
+        "dataset": "personas_phl_pampers",
+        "date": "2024-02-07",
+        "retention_table": "phl_pampers_retention_segment",
+        "dataset_region": "us-east4"
+    },
+    "295": {
+        "country_code": "'CHE'",
+        "opt_indicator": [
+            "email_switzerland_corporate_newsletter_opt_indicator",
+            "email_switzerland_growing_families_newsletter_opt_indicator",
+            "email_switzerland_growing_families_profiling_opt_indicator"
+        ],
+        "corp_indicator": "email_switzerland_corporate_newsletter_opt_indicator",
+        "ghh_indicator": "email_switzerland_growing_families_newsletter_opt_indicator",
+        "profiling_opt_indicator": "email_switzerland_growing_families_profiling_opt_indicator",
+        "mp_name": "CHE GHH",
+        "segment_multiple_mpn": "'295'",
+        "cdp_multiple_mpn": "295",
+        "region": "EU_corp",
+        "dataset": "personas_che_growing_families",
+        "date": "2024-02-08",
+        "retention_table": "che_growing_families_retention_segment",
+        "dataset_region": "us"
+    },
+    "293": {
+        "country_code": "'DEU'",
+        "opt_indicator": [
+            "email_germany_corporate_newsletter_opt_indicator",
+            "email_germany_growing_families_newsletter_opt_indicator",
+            "email_germany_growing_families_profiling_opt_indicator"
+        ],
+        "corp_indicator": "corp_opt",
+        "ghh_indicator": "ghh_opt",
+        "profiling_opt_indicator": "email_germany_growing_families_profiling_opt_indicator",
+        "mp_name": "DEU GHH",
+        "segment_multiple_mpn": "'293'",
+        "cdp_multiple_mpn": "293",
+        "region": "EU_corp",
+        "dataset": "personas_deu_growing_families",
+        "date": "2024-03-16",
+        "retention_table": "deu_growing_families_retention_segment",
+        "dataset_region": "us"
+    },
+    "24": {
+        "country_code": "'PHL'",
+        "opt_indicator": [
+            "email_philippines_corporate_newsletter_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "",
+        "mp_name": "PHL CORPORATE",
+        "segment_multiple_mpn": "'24','256'",
+        "cdp_multiple_mpn": "24,256",
+        "region": "AMA",
+        "dataset": "personas_phl_corporate",
+        "date": "2024-02-07",
+        "retention_table": "phl_corporate_retention_segment",
+        "dataset_region": "us-east4"
+    },
+    "363": {
+        "country_code": "'ARB','ARE','BHR','KWT','OMN','QAT','SAU','YEM','EGY'",
+        "opt_indicator": [
+            "email_arabia_growingfamilies_newsletter_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "",
+        "mp_name": "ARB GHH",
+        "segment_multiple_mpn": "'363'",
+        "cdp_multiple_mpn": "363",
+        "region": "AMA",
+        "dataset": "personas_arb_growing_families_everyday_me_arabia",
+        "date": "2024-05-31",
+        "retention_table": "arb_growing_families_everyday_me_arabia_retention_segment",
+        "dataset_region": "us-east4"
+    },
+    "39": {
+        "country_code": "'VNM'",
+        "opt_indicator": [
+            "null"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "",
+        "mp_name": "VNM CORPORATE",
+        "segment_multiple_mpn": "'39'",
+        "cdp_multiple_mpn": "39",
+        "region": "AMA",
+        "dataset": "personas_vnm_corporate",
+        "date": "2024-02-13",
+        "retention_table": "vnm_corporate_retention_segment",
+        "dataset_region": "us-east4"
+    },
+    "288": {
+        "country_code": "'GBR'",
+        "opt_indicator": [
+            "email_united_kingdom_corporate_newsletter_opt_indicator",
+            "email_united_kingdom_growing_families_newsletter_opt_indicator",
+            "email_united_kingdom_growing_families_ssm_newsletter_opt_indicator",
+            "email_united_kingdom_growing_families_profiling_opt_indicator"
+        ],
+        "corp_indicator": "email_united_kingdom_corporate_newsletter_opt_indicator",
+        "ghh_indicator": "email_united_kingdom_growing_families_newsletter_opt_indicator",
+        "profiling_opt_indicator": "email_united_kingdom_growing_families_profiling_opt_indicator",
+        "mp_name": "GBR GHH",
+        "segment_multiple_mpn": "'288','490'",
+        "cdp_multiple_mpn": "288,490",
+        "region": "EU_corp",
+        "dataset": "personas_gbr_growing_families",
+        "date": "2024-02-19",
+        "retention_table": "gbr_growing_families_retention_segment",
+        "dataset_region": "us"
+    },
+    "299": {
+        "country_code": "'IRL'",
+        "opt_indicator": [
+            "email_ireland_corporate_newsletter_opt_indicator",
+            "email_ireland_growing_families_newsletter_opt_indicator",
+            "email_ireland_growing_families_profiling_opt_indicator"
+        ],
+        "corp_indicator": "email_ireland_corporate_newsletter_opt_indicator",
+        "ghh_indicator": "email_ireland_growing_families_newsletter_opt_indicator",
+        "profiling_opt_indicator": "email_ireland_growing_families_profiling_opt_indicator",
+        "mp_name": "IRL GHH",
+        "segment_multiple_mpn": "'299'",
+        "cdp_multiple_mpn": "299",
+        "region": "EU_corp",
+        "dataset": "personas_irl_growing_families",
+        "date": "2024-03-21",
+        "retention_table": "irl_growing_families_retention_segment",
+        "dataset_region": "us"
+    },
+    "417": {
+        "country_code": "'GBR'",
+        "opt_indicator": [
+            "email_united_kingdom_oral_b_newsletter_opt_indicator",
+            "email_united_kingdom_oral_b_profiling_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "email_united_kingdom_oral_b_profiling_opt_indicator",
+        "mp_name": "GBR Oralb",
+        "segment_multiple_mpn": "'417'",
+        "cdp_multiple_mpn": "417",
+        "region": "EU",
+        "dataset": "personas_gbr_oral_b",
+        "date": "2024-02-16",
+        "retention_table": "gbr_oral_b_retention_segment",
+        "dataset_region": "us"
+    },
+    "412": {
+        "country_code": "'ESP'",
+        "opt_indicator": [
+            "email_spain_oral_b_newsletter_opt_indicator",
+            "email_spain_oral_b_profiling_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "email_spain_oral_b_profiling_opt_indicator",
+        "mp_name": "ESP Oralb",
+        "segment_multiple_mpn": "'412'",
+        "cdp_multiple_mpn": "412",
+        "region": "EU",
+        "dataset": "personas_esp_oral_b",
+        "date": "2024-02-16",
+        "retention_table": "esp_oral_b_retention_segment",
+        "dataset_region": "us"
+    },
+    "413": {
+        "country_code": "'ITA'",
+        "opt_indicator": [
+            "email_italy_oral_b_newsletter_opt_indicator",
+            "email_italy_oral_b_profiling_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "email_italy_oral_b_profiling_opt_indicator",
+        "mp_name": "ITA Oralb",
+        "segment_multiple_mpn": "'413'",
+        "cdp_multiple_mpn": "413",
+        "region": "EU",
+        "dataset": "personas_ita_oral_b",
+        "date": "2024-02-28",
+        "retention_table": "ita_oral_b_retention_segment",
+        "dataset_region": "us"
+    },
+    "516": {
+        "country_code": "'DNK'",
+        "opt_indicator": [
+            "email_denmark_oral_b_full_opt_indicator",
+            "email_denmark_oral_b_newslletter_opt_indicator",
+            "email_denmark_oral_b_profiling_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "email_denmark_oral_b_profiling_opt_indicator",
+        "mp_name": "DNK Oralb",
+        "segment_multiple_mpn": "'516'",
+        "cdp_multiple_mpn": "516",
+        "region": "EU",
+        "dataset": "personas_dnk_oral_b",
+        "date": "2024-02-28",
+        "retention_table": "dnk_oral_b_retention_segment",
+        "dataset_region": "us"
+    },
+    "289": {
+        "country_code": "'ITA'",
+        "opt_indicator": [
+            "email_italy_corporate_newsletter_opt_indicator",
+            "email_italy_growing_families_newsletter_opt_indicator",
+            "email_italy_growing_families_profiling_opt_indicator",
+            "email_italy_growing_families_desideri_collection_newsletter_opt_indicator"
+        ],
+        "corp_indicator": "email_italy_corporate_newsletter_opt_indicator",
+        "ghh_indicator": "email_italy_growing_families_newsletter_opt_indicator",
+        "profiling_opt_indicator": "email_italy_growing_families_profiling_opt_indicator",
+        "cdp_opt_indicator": [
+            "emailItalyCorporateNewsletterOptIndicator",
+            "emailItalyGrowingFamiliesNewsletterOptIndicator",
+            "emailItalyGrowingFamiliesProfilingOptIndicator",
+            "UseConditioner",
+            "SleepAidBrandP12M",
+            "BrandPurchasedShampoo",
+            "toothbrushTypeUsed",
+            "BrandPurchasedToothpasteP12M",
+            "howShaveLegs",
+            "BrandElectricShaver",
+            "MethodOfShaving",
+            "detergent"
+        ],
+        "cdp_trait_id": "3443,4959,3439,4959,1534,1022,2340,4194,3187,2635,2632,3187,2629,2600",
+        "mp_name": "ITA GHH",
+        "segment_multiple_mpn": "'289'",
+        "cdp_multiple_mpn": "289",
+        "region": "EU_corp",
+        "dataset": "personas_ita_growing_families",
+        "date": "2024-06-10",
+        "retention_table": "ita_growing_families_retention_segment",
+        "dataset_region": "us"
+    },
+    "414": {
+        "opt_indicator": [
+            "email_netherlands_oral_b_full_opt_indicator",
+            "email_netherlands_oral_b_newsletter_opt_indicator",
+            "email_netherlands_oral_b_profiling_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "email_netherlands_oral_b_profiling_opt_indicator",
+        "cdp_opt_indicator": [
+            "emailNetherlandsOralBNewsletterOptIndicator",
+            "emailNetherlandsOralBProfilingOptIndicator"
+        ],
+        "country_code": "'NLD'",
+        "mp_name": "NLD Oralb",
+        "segment_multiple_mpn": "'414'",
+        "cdp_multiple_mpn": "414",
+        "region": "EU",
+        "dataset": "personas_nld_oral_b",
+        "date": "2024-02-16",
+        "retention_table": "nld_oral_b_retention_segment",
+        "dataset_region": "us",
+        "cdp_trait_id": "6888,4967,6572"
+    },
+    "416": {
+        "opt_indicator": [
+            "email_germany_oral_b_full_opt_indicator",
+            "email_germany_oral_b_newsletter_opt_indicator",
+            "email_germany_oral_b_profiling_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "email_germany_oral_b_profiling_opt_indicator",
+        "country_code": "'DEU'",
+        "mp_name": "DEU Oralb",
+        "segment_multiple_mpn": "'416'",
+        "cdp_multiple_mpn": "416",
+        "region": "EU",
+        "dataset": "personas_deu_oral_b",
+        "date": "2024-06-10",
+        "retention_table": "deu_oral_b_retention_segment",
+        "dataset_region": "us"
+    },
+    "517": {
+        "opt_indicator": [
+            "email_finland_oral_b_full_opt_indicator",
+            "email_finland_oral_b_profiling_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "email_finland_oral_b_profiling_opt_indicator",
+        "country_code": "'FIN'",
+        "mp_name": "FIN Oralb",
+        "segment_multiple_mpn": "'517'",
+        "cdp_multiple_mpn": "517",
+        "region": "EU",
+        "dataset": "personas_fin_oral_b",
+        "date": "2024-02-16",
+        "retention_table": "fin_oral_b_retention_segment",
+        "dataset_region": "us"
+    },
+    "524": {
+        "opt_indicator": [
+            "email_belgium_oral_b_full_opt_indicator",
+            "email_belgium_oral_b_profiling_opt_indicator",
+            "email_belgium_oral_b_newsletter_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "email_belgium_oral_b_profiling_opt_indicator",
+        "country_code": "'BEL'",
+        "mp_name": "BEL Oralb",
+        "segment_multiple_mpn": "'524'",
+        "cdp_multiple_mpn": "524",
+        "region": "EU",
+        "dataset": "personas_bel_oral_b",
+        "date": "2024-02-16",
+        "retention_table": "bel_oral_b_retention_segment",
+        "dataset_region": "us"
+    },
+    "411": {
+        "opt_indicator": [
+            "email_poland_oral_b_full_opt_indicator",
+            "email_poland_oral_b_profiling_opt_indicator",
+            "email_poland_oral_b_newsletter_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "email_poland_oral_b_profiling_opt_indicator",
+        "country_code": "'POL'",
+        "mp_name": "POL Oralb",
+        "segment_multiple_mpn": "'411'",
+        "cdp_multiple_mpn": "411",
+        "region": "EU",
+        "dataset": "personas_pol_oral_b",
+        "date": "2024-02-16",
+        "retention_table": "pol_oral_b_retention_segment",
+        "dataset_region": "us"
+    },
+    "410": {
+        "opt_indicator": [
+            "email_sweden_oral_b_full_opt_indicator",
+            "email_sweden_oral_b_profiling_opt_indicator",
+            "email_sweden_oral_b_newsletter_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "email_sweden_oral_b_profiling_opt_indicator",
+        "country_code": "'SWE'",
+        "mp_name": "SWE Oralb",
+        "segment_multiple_mpn": "'410'",
+        "cdp_multiple_mpn": "410",
+        "region": "EU",
+        "dataset": "personas_swe_oral_b",
+        "date": "2024-02-16",
+        "retention_table": "swe_oral_b_retention_segment",
+        "dataset_region": "us"
+    },
+    "178": {
+        "opt_indicator": [
+            "email_united_states_old_spice_newsletter_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "",
+        "country_code": "'USA'",
+        "mp_name": "US OLDSPICE",
+        "segment_multiple_mpn": "'178'",
+        "cdp_multiple_mpn": "178",
+        "region": "US",
+        "dataset": "personas_usa_old_spice",
+        "date": "2024-02-16",
+        "retention_table": "usa_old_spice_retention_segment",
+        "dataset_region": "us"
+    },
+    "405": {
+        "country_code": "'CAN'",
+        "opt_indicator": [
+            "email_canada_dental_care_ce_newsletter_opt_indicator",
+            "email_canada_dental_care_newsletter_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "",
+        "mp_name": "CAN DENTALCARE",
+        "segment_multiple_mpn": "'405'",
+        "cdp_multiple_mpn": "405",
+        "region": "US",
+        "dataset": "personas_can_dental_care",
+        "date": "2024-04-09",
+        "retention_table": "can_dental_care_retention_segment",
+        "dataset_region": "us"
+    },
+    "127": {
+        "country_code": "'USA'",
+        "opt_indicator": [
+            "email_united_states_olay_newsletter_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "",
+        "mp_name": "USA Olay",
+        "segment_multiple_mpn": "'127'",
+        "cdp_multiple_mpn": "127",
+        "region": "US",
+        "dataset": "personas_usa_olay",
+        "date": "2024-03-06",
+        "retention_table": "usa_olay_retention_segment",
+        "dataset_region": "us"
+    },
+    "119": {
+        "country_code": "'USA'",
+        "opt_indicator": [
+            "email_newsletter_opt_indicator",
+            "email_on_demand_opt_indicator",
+            "email_treo_newsletter_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "",
+        "mp_name": "USA Gillette",
+        "segment_multiple_mpn": "'119'",
+        "cdp_multiple_mpn": "119",
+        "region": "US",
+        "dataset": "personas_usa_gillette_v_2",
+        "date": "2024-03-27",
+        "retention_table": "usa_gillette_retention_segment",
+        "dataset_region": "us"
+    },
+    "507": {
+        "country_code": "'FRA'",
+        "opt_indicator": [
+            "email_france_braun_profiling_opt_indicator",
+            "email_france_braun_full_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "email_france_braun_profiling_opt_indicator",
+        "mp_name": "FRA Braun",
+        "segment_multiple_mpn": "'507','357'",
+        "cdp_multiple_mpn": "507,357",
+        "region": "EU",
+        "dataset": "personas_fra_braun",
+        "date": "2024-03-07",
+        "retention_table": "personas_fra_braun_retention_segment",
+        "dataset_region": "us"
+    },
+    "173": {
+        "country_code": "'USA'",
+        "opt_indicator": [
+            "email_united_states_crest_white_smiles_newsletter_opt_indicator",
+            "email_united_states_oral_care_newsletter_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "",
+        "mp_name": "USA Oral Care",
+        "segment_multiple_mpn": "'173','479'",
+        "cdp_multiple_mpn": "173,479",
+        "region": "US",
+        "dataset": "personas_usa_oral_care",
+        "date": "2024-04-05",
+        "retention_table": "personas_usa_oral_care_retention_segment",
+        "dataset_region": "us"
+    },
+    "292": {
+        "country_code": "'GRC'",
+        "opt_indicator": [
+            "email_greece_corporate_newsletter_opt_indicator",
+            "email_greece_growing_families_newsletter_opt_indicator",
+            "email_greece_growing_families_receipt_profiling_opt_indicator"
+        ],
+        "corp_indicator": "email_greece_corporate_newsletter_opt_indicator",
+        "ghh_indicator": "email_greece_growing_families_newsletter_opt_indicator",
+        "profiling_opt_indicator": "email_greece_growing_families_receipt_profiling_opt_indicator",
+        "cdp_opt_indicator": [
+            "emailGreeceGrowingFamiliesReceiptProfilingOptIndicator",
+            "emailGreeceGrowingFamiliesNewsletterOptIndicator",
+            "emailGreeceCorporateNewsletterOptIndicator",
+            "numberChildren",
+            "BrandofPreference",
+            "PowerToothbrushModel",
+            "FemcareBrandUsedP3M",
+            "OwnDishwasher",
+            "ownPet",
+            "AutomaticDishWasherDetergentBrandDoYouBuy",
+            "HandDishWasherBrandDoYouBuy"
+        ],
+        "cdp_trait_id": "6279, 6830, 3476, 3480,129,3926,2231,2364,1562,523,2424,2425",
+        "mp_name": "GRC GHH",
+        "segment_multiple_mpn": "'292'",
+        "cdp_multiple_mpn": "292",
+        "region": "EU_corp",
+        "dataset": "personas_grc_growing_families",
+        "date": "2024-04-05",
+        "retention_table": "grc_growing_families_retention_segment",
+        "dataset_region": "us"
+    },
+    "430": {
+        "country_code": "'USA'",
+        "opt_indicator": [
+            "email_united_states_braun_newsletter_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "",
+        "mp_name": "USA Braun",
+        "segment_multiple_mpn": "'430'",
+        "cdp_multiple_mpn": "430",
+        "region": "US",
+        "dataset": "personas_usa_braun",
+        "date": "2024-06-03",
+        "retention_table": "usa_braun_retention_segment",
+        "dataset_region": "us"
+    },
+    "249": {
+        "country_code": "'POL'",
+        "opt_indicator": [
+            "email_poland_growing_families_newsletter_opt_indicator",
+            "email_poland_corporate_newsletter_opt_indicator",
+            "email_poland_growing_families_profiling_opt_indicator"
+        ],
+        "corp_indicator": "email_poland_growing_families_newsletter_opt_indicator",
+        "ghh_indicator": "email_poland_corporate_newsletter_opt_indicator",
+        "profiling_opt_indicator": "email_poland_growing_families_profiling_opt_indicator",
+        "cdp_opt_indicator": [
+            "emailPolandCorporateNewsletterOptIndicator",
+            "emailPolandGrowingFamiliesNewsletterOptIndicator",
+            "emailPolandGrowingFamiliesReceiptProfilingOptIndicator",
+            "numberChildren",
+            "howYouWashDishes",
+            "BrushTypeUsed",
+            "PrimarilyRemoveHair",
+            "SustainableProductFeaturesPreference",
+            "femcareProductUsed",
+            "OralWhoOwnsElectricToothbrush"
+        ],
+        "cdp_trait_id": "2774,2779,2709,2734,3500, 3504, 6828, 4974,2714,4886,3752,1531,129,98,4274,3675,1532",
+        "mp_name": "POL GrowingFamilies",
+        "segment_multiple_mpn": "'249'",
+        "cdp_multiple_mpn": "249,252",
+        "region": "EU_corp",
+        "dataset": "personas_pol_growing_families",
+        "date": "2024-06-07",
+        "retention_table": "pol_growing_families_retention_segment",
+        "dataset_region": "us"
+    },
+    "415": {
+        "country_code": "'FRA'",
+        "opt_indicator": [
+            "email_france_oral_b_profiling_opt_indicator",
+            "email_france_oral_b_newsletter_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "email_france_oral_b_profiling_opt_indicator",
+        "mp_name": "FRA Oralb",
+        "segment_multiple_mpn": "'415'",
+        "cdp_multiple_mpn": "415",
+        "region": "EU",
+        "dataset": "personas_fra_oralb",
+        "date": "2024-05-31",
+        "retention_table": "fra_oralb_retention_segment",
+        "dataset_region": "us"
+    },
+    "59": {
+        "country_code": "'TWN'",
+        "opt_indicator": [
+            "email_taiwan_living_artist_newsletter_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "",
+        "mp_name": "TWN Living Artist",
+        "segment_multiple_mpn": "'59'",
+        "cdp_multiple_mpn": "59",
+        "region": "AMA",
+        "dataset": "personas_tw_living_artist",
+        "date": "2024-04-21",
+        "retention_table": "tw_living_artist_retention_segment",
+        "dataset_region": "us-east4"
+    },
+    "494": {
+        "country_code": "'USA'",
+        "opt_indicator": [
+            "email_united_states_always_newsletter_opt_indicator",
+            "email_united_states_always_discreet_newsletter_opt_indicator",
+            "email_united_states_tampax_newsletter_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "",
+        "mp_name": "USA Always Discreet",
+        "segment_multiple_mpn": "'492','493','494','482'",
+        "cdp_multiple_mpn": "492,493,494,482",
+        "region": "US",
+        "dataset": "personas_usa_always_discreet",
+        "date": "2024-06-12",
+        "retention_table": "usa_always_discreet_retention_segment",
+        "dataset_region": "us"
+    },
+    "209": {
+        "country_code": "'TUR'",
+        "opt_indicator": [
+            "email_turkey_being_girl_profiling_opt_indicator",
+            "email_turkey_being_girl_newsletter_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "ghh_indicator": "",
+        "profiling_opt_indicator": "email_turkey_being_girl_profiling_opt_indicator",
+        "mp_name": "TUR Being Girl",
+        "segment_multiple_mpn": "'209'",
+        "cdp_multiple_mpn": "209",
+        "region": "EU",
+        "dataset": "personas_tur_being_girl",
+        "date": "2024-04-22",
+        "retention_table": "tur_being_girl_retention_segment",
+        "dataset_region": "us"
+    },
+    "515": {
+        "country_code": "'NOR'",
+        "opt_indicator": [
+            "email_norway_oral_b_full_opt_indicator",
+            "email_norway_oral_b_profiling_opt_indicator"
+        ],
+        "corp_indicator": "''",
+        "profiling_opt_indicator": "email_norway_oral_b_profiling_opt_indicator",
+        "ghh_indicator": "''",
+        "mp_name": "NOR ORALB",
+        "segment_multiple_mpn": "'515'",
+        "cdp_multiple_mpn": "515",
+        "region": "EU",
+        "dataset": "personas_nor_oral_b",
+        "date": "2024-06-11",
+        "retention_table": "nor_oralb_retention_segment",
+        "dataset_region": "us"
+    },
+    "469": {
+        "country_code": "'DEU'",
+        "opt_indicator": [
+            "email_germany_femibion_profiling_opt_indicator",
+            "email_germany_femibion_newsletter_opt_indicator"
+        ],
+        "corp_indicator": "''",
+        "profiling_opt_indicator": "email_germany_femibion_profiling_opt_indicator",
+        "ghh_indicator": "''",
+        "mp_name": "DEU FEMIBION",
+        "segment_multiple_mpn": "'469'",
+        "cdp_multiple_mpn": "469",
+        "region": "EU",
+        "dataset": "personas_deu_femibion",
+        "date": "2024-06-11",
+        "retention_table": "deu_femibion_retention_segment",
+        "dataset_region": "us"
+    },
+    "519": {
+        "country_code": "'USA'",
+        "opt_indicator": [
+            "email_united_states_charmin_newsletter_opt_indicator",
+            "email_united_states_shop_charmin_newsletter_opt_indicator"
+        ],
+        "corp_indicator": "",
+        "profiling_opt_indicator": "",
+        "ghh_indicator": "",
+        "mp_name": "USA Charmin",
+        "segment_multiple_mpn": "'519'",
+        "cdp_multiple_mpn": "519",
+        "region": "US",
+        "dataset": "personas_usa_charmin",
+        "date": "2024-06-17",
+        "retention_table": "usa_charmin_retention_segment",
+        "dataset_region": "us"
+    }
+}
